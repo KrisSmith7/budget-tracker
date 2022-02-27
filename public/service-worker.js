@@ -57,7 +57,7 @@ self.addEventListener('fetch', function (evt) {
                 console.log('responding with cache : ' + evt.request.url)
                 return request
             } else {
-                console.log('file is not cached, fetching : ' + e.request.url)
+                console.log('file is not cached, fetching : ' + evt.request.url)
                 return fetch(evt.request)
             }
         })
