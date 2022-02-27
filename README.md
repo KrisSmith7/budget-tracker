@@ -8,7 +8,7 @@
 ## Usage
 This is a progressive web application and does not need to be installed. You can use budget-tracker by visiting the [link to deployed application here.](https://budget-tracks789.herokuapp.com/)
 
-![screenshot of application](.\public\assets\budget-tracker-screenshot.png)
+![screenshot of application](./public/assets/budget-tracker-screenshot.png)
 
   ## Questions
   Contact the developer with any questions!
